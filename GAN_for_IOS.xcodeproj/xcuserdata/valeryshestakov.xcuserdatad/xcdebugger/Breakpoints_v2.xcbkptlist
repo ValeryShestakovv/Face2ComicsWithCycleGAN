@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F0D0FD5C-D2D8-408B-A41A-E33230A61D12"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "89B3168A-B95C-44EA-8F00-AA8841694103"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GAN_for_IOSUITests/MainScreenUITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "testFirst()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "29D80CA5-85B4-48AE-B99C-0A9DB3FA73BD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GAN_for_IOSUITests/MainScreenUITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "testSecond()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "67A6D3AD-9974-4BAF-A157-D34A78E4CC34"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GAN_for_IOS/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "67A6D3AD-9974-4BAF-A157-D34A78E4CC34 - cddc1ab5f7d49ae4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GAN_for_IOS.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; GAN_for_IOS.ViewController"
+                  moduleName = "GAN_for_IOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/valeryshestakov/Desktop/GAN_for_IOS/GAN_for_IOS/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  uuid = "67A6D3AD-9974-4BAF-A157-D34A78E4CC34 - a79daf71615a913f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GAN_for_IOS.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; GAN_for_IOS.ViewController"
+                  moduleName = "GAN_for_IOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/valeryshestakov/Desktop/GAN_for_IOS/GAN_for_IOS/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "163">
+               </Location>
+               <Location
+                  uuid = "67A6D3AD-9974-4BAF-A157-D34A78E4CC34 - 889676b87f3622b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GAN_for_IOS.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;GAN_for_IOS.ViewController&gt;"
+                  moduleName = "GAN_for_IOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/valeryshestakov/Desktop/GAN_for_IOS/GAN_for_IOS/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "67A6D3AD-9974-4BAF-A157-D34A78E4CC34 - 2e06d4eff07aa94e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GAN_for_IOS.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;GAN_for_IOS.ViewController&gt;"
+                  moduleName = "GAN_for_IOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/valeryshestakov/Desktop/GAN_for_IOS/GAN_for_IOS/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "117">
+               </Location>
+               <Location
+                  uuid = "67A6D3AD-9974-4BAF-A157-D34A78E4CC34 - 4432f9e2a188fda2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GAN_for_IOS.ViewController.__deallocating_deinit"
+                  moduleName = "GAN_for_IOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/valeryshestakov/Desktop/GAN_for_IOS/GAN_for_IOS/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8876B61F-224A-432A-99C5-C755D2FE7B64"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GAN_for_IOSUITests/MainScreenUITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "testFour()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "989BBB6A-326D-4B45-B214-355554B7F3D2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GAN_for_IOSUnitTests/GAN_for_IOSUnitTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "testExample()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0D6C3B5F-365C-4945-875E-A799CE4831E3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GAN_for_IOSUnitTests/GAN_for_IOSUnitTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "GAN_for_IOSUnitTests"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2D48D24A-3B9A-4C7F-8204-B34A68635072"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GAN_for_IOSUnitTests/GAN_for_IOSUnitTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "GAN_for_IOSUnitTests"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2828A46B-BACB-40CA-A0B5-2EB49CB731DE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GAN_for_IOSTests/GAN_for_IOSTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "testExample()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2828A46B-BACB-40CA-A0B5-2EB49CB731DE - 784c245b42d90193"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GAN_for_IOSTests.GAN_for_IOSTests.testExample() throws -&gt; ()"
+                  moduleName = "GAN_for_IOSTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/valeryshestakov/Desktop/GAN_for_IOS/GAN_for_IOSTests/GAN_for_IOSTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "397">
+               </Location>
+               <Location
+                  uuid = "2828A46B-BACB-40CA-A0B5-2EB49CB731DE - 784c245b42d9016c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GAN_for_IOSTests.GAN_for_IOSTests.testExample() throws -&gt; ()"
+                  moduleName = "GAN_for_IOSTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/valeryshestakov/Desktop/GAN_for_IOS/GAN_for_IOSTests/GAN_for_IOSTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "389">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

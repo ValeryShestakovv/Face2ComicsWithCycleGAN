@@ -1,0 +1,24 @@
+{
+  "originHash" : "6e60d7023b9dbc4a144b9145668ae3d141be4d38f7dd9b91698f78b65f4e39dc",
+  "pins" : [
+    {
+      "identity" : "animatedcollectionviewlayout",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/KelvinJin/AnimatedCollectionViewLayout",
+      "state" : {
+        "revision" : "c15687d1c6db6d39ef1e54a6c5a5c2fe74a544a8",
+        "version" : "1.1.0"
+      }
+    },
+    {
+      "identity" : "snapkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SnapKit/SnapKit",
+      "state" : {
+        "branch" : "develop",
+        "revision" : "2842e6e84e82eb9a8dac0100ca90d9444b0307f4"
+      }
+    }
+  ],
+  "version" : 3
+}
