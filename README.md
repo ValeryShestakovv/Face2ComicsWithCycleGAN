@@ -4,7 +4,7 @@
 ## Results
 ||
 |:---:|
-|![](GAN_for_IOS/Resources/Screenshots/result.jpeg)|
+|![](GAN_for_IOS/Resources/Screenshots/result.jpg)|
 
 
 ### CycleGAN
